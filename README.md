@@ -42,3 +42,7 @@
 * Added global theme property search functionality.
 * Implemented batch synchronization across all major Blender editors.
 * English localization for international compatibility.
+
+
+https://github.com/user-attachments/assets/0daefa25-2f0c-40b2-8e7f-8a641e25f3f6
+
