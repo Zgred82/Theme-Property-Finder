@@ -10,14 +10,18 @@
 * **Smart Filtering:** Results are grouped by editor type (3D View, Node Editor, etc.) for better clarity.
 * **Selection Control:** Quickly select or deselect matching items to refine your batch updates.
 
-## 🛠 Installation (Standard Add-on)
+## 🛠 Installation
 
-1. Download the **`Theme_property_finder.py`** file from this repository.
-2. Open Blender.
-3. Go to **Edit > Preferences > Add-ons**.
-4. Click the **Install...** button at the top of the window.
-5. Select the downloaded `.py` file.
-6. Find **"User Interface: Theme Property Finder"** in the list and check the box to enable it.
+### Option 1: Drag & Drop (Easiest)
+1. Download the **`Theme_property_finder.zip`** from the [Releases](https://github.com/Zgred82/Theme-Property-Finder/releases) section.
+2. Drag and drop the downloaded `.zip` file directly into the Blender window.
+3. Click **Install** when prompted.
+
+### Option 2: Standard Installation
+1. Download the **`Theme_property_finder.zip`**.
+2. In Blender, go to **Edit > Preferences > Add-ons**.
+3. Click **Install...** at the top and select the `.zip` file.
+4. Enable the add-on by checking the box next to **"User Interface: Theme Property Finder"**.
 
 ## 📖 How to Use
 
